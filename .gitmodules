@@ -1,0 +1,33 @@
+[submodule "browser-dom-window-pietow"]
+	path = browser-dom-window-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-window-pietow.git
+[submodule "browser-dom-querying-pietow"]
+	path = browser-dom-querying-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-querying-pietow.git
+[submodule "browser-dom-quiz-pietow"]
+	path = browser-dom-quiz-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-quiz-pietow.git
+[submodule "browser-dom-manipulating-pietow"]
+	path = browser-dom-manipulating-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-manipulating-pietow.git
+[submodule "browser-dom-traversing-pietow"]
+	path = browser-dom-traversing-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-traversing-pietow.git
+[submodule "browser-dom-traversing-parents-list-pietow"]
+	path = browser-dom-traversing-parents-list-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-traversing-parents-list-pietow.git
+[submodule "browser-dom-traversing-children-count-pietow"]
+	path = browser-dom-traversing-children-count-pietow
+	url = git@github.com:FbW-E05-1/browser-dom-traversing-children-count-pietow.git
+[submodule "lessons"]
+	path = lessons
+	url = https://github.com/FbW-E05-1/lessons.git
+[submodule "browser-toggleitems-pietow"]
+	path = browser-toggleitems-pietow
+	url = git@github.com:FbW-E05-1/browser-toggleitems-pietow.git
+[submodule "browser-modules-imports-exports-pietow"]
+	path = browser-modules-imports-exports-pietow
+	url = git@github.com:FbW-E05-1/browser-modules-imports-exports-pietow.git
+[submodule "browser-fetch-promises-pietow"]
+	path = browser-fetch-promises-pietow
+	url = https://github.com/FbW-E05-1/browser-fetch-promises-pietow
