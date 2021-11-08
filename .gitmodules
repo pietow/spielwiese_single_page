@@ -31,3 +31,6 @@
 [submodule "browser-fetch-promises-pietow"]
 	path = browser-fetch-promises-pietow
 	url = https://github.com/FbW-E05-1/browser-fetch-promises-pietow
+[submodule "tut_dom"]
+	path = tut_dom
+	url = https://github.com/pietow/tutorial_dom.git
