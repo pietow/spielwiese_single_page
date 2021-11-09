@@ -37,3 +37,6 @@
 [submodule "browser-cryptocurrencyconverter-pietow"]
 	path = browser-cryptocurrencyconverter-pietow
 	url = git@github.com:FbW-E05-1/browser-cryptocurrencyconverter-pietow.git
+[submodule "post_fetch"]
+	path = post_fetch
+	url = git@github.com:pietow/post_fetch.git
