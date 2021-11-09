@@ -34,3 +34,6 @@
 [submodule "tut_dom"]
 	path = tut_dom
 	url = https://github.com/pietow/tutorial_dom.git
+[submodule "browser-cryptocurrencyconverter-pietow"]
+	path = browser-cryptocurrencyconverter-pietow
+	url = git@github.com:FbW-E05-1/browser-cryptocurrencyconverter-pietow.git
