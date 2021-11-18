@@ -40,3 +40,6 @@
 [submodule "post_fetch"]
 	path = post_fetch
 	url = git@github.com:pietow/post_fetch.git
+[submodule "fetchImplimentation"]
+	path = fetchImplimentation
+	url = https://github.com/github/fetch.git
