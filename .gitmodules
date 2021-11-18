@@ -46,3 +46,6 @@
 [submodule "react_intro"]
 	path = react_intro
 	url = git@github.com:pietow/react.git
+[submodule "localStorage"]
+	path = localStorage
+	url = git@github.com:pietow/localStorage.git
